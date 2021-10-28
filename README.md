@@ -1,3 +1,3 @@
-# CourseProject
+# CourseProject [Classification of Faculty directory pages and homepages]
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Project Proposal - Project Proposal_ExpertSearch System Enhancement_shaukat2.pdf
