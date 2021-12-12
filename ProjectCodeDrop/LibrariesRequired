@@ -1,0 +1,7 @@
+pip install nltk
+pip install BeautifulSoup4
+pip install streamlit 
+pip install -U scikit-learn scipy matplotlib
+
+Commad to run app
+streamlit run streamlit_app.py
